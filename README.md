@@ -1,0 +1,2 @@
+# savi
+Savi is a coupon management system that allows you to organize all of your coupons in a clean and easy-to-use mobile interface. You’ll be able to “save” coupons for easy access and avoid the clutter of promotional emails in your inbox. You can passively discover deals as you're out and about. Using location services, the application will prompt you with deals right as you walk in the door of a store. We’ll also introduce features such as predicting and tracking retail sales through analytics to visually observe market trends. 
